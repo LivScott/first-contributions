@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
-- [LivScott] (https://github.com/LivScott)
+- LivScott (https://github.com/LivScott)
 - [Alleznav] (https://github.com/Alleznav)
 - [al-imam](https://github.com/al-imam)
 - [Melek Msakni](https://github.com/melekmsakni)
